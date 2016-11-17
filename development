@@ -1,0 +1,2 @@
+[deep_learning]
+192.168.4.111 gpu=True cuda_packages=cuda-8-0
